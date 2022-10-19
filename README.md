@@ -1,1 +1,1 @@
-# cardaic-arrhythmia
+# cardaic-arrhythmia detection using LSTM model
